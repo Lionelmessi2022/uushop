@@ -1,0 +1,13 @@
+server:
+  port: 8083
+jdwx:
+  url: https://way.jd.com/chonry/smsapi
+  appkey: 95223981f663c3bb3b18e56e88b0c628
+  sign: 【UUShop】
+spring:
+  application:
+    name: sms-service
+#  redis:
+#    database: 0
+#    host: 192.168.248.140
+#    port: 6379
